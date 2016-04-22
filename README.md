@@ -4,7 +4,7 @@ Plugin for providing Travis build information in SauceLabs test run.
 
 ## Installation
 
-`npm gemini-saucelabs-info`
+`npm install gemini-saucelabs-info`
 
 ## Configuration
 
